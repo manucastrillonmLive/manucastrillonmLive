@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hola mi nombre es Manuela, me gusta la progrmación web y me dan miedo los truenos 
+
 <!--
 **manucastrillonmLive/manucastrillonmLive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
